@@ -44,8 +44,10 @@ I’m a third-year Computer Engineering student who enjoys turning ideas into pr
 
 ---
 
-### 📫 Connect
+### 📫 Connect With Me
 
-- GitHub: [@prince8965](https://github.com/prince8965)
+- 📧 **Email:** [iamprincevish05@gmail.com](mailto:iamprincevish05@gmail.com)
+- 💼 **LinkedIn:** [Prince Vishwakarma](https://www.linkedin.com/in/prince-vishwakarma-205559367)
+- 🐙 **GitHub:** [@prince8965](https://github.com/prince8965)
 
 *Learning consistently, building in public, and improving one commit at a time. 🚀*
