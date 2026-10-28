@@ -1,42 +1,51 @@
-# Hey, I'm Prince Vishwakarma 👋
+# Hi, I'm Prince Vishwakarma 👋
 
 ### Computer Engineering Student | Aspiring Software Engineer
 
-I’m a third-year Computer Engineering student focused on building strong programming fundamentals and creating practical projects. I’m currently learning **Data Structures & Algorithms in C++**, **JavaScript**, and **full-stack web development**, while exploring **AI/ML**.
+I’m a third-year Computer Engineering student who enjoys turning ideas into practical software. I’m strengthening my foundations in **C++ and Data Structures & Algorithms**, building full-stack web applications, and exploring **AI/ML** through projects and hackathons.
 
-- 🌱 **Currently learning:** DSA in C++, JavaScript, MERN stack, and AI/ML
-- 🛠️ **Building with:** C++, HTML, CSS, JavaScript, React, Next.js, TypeScript, and Tailwind CSS
-- 🛰️ **Hackathon project:** [Startect](https://github.com/prince8965/Startect) — a platform for multimodal image correspondence using Chandrayaan-2 optical imagery
-- 🤝 **Interested in:** Open-source contributions, collaborative projects, and software engineering internships
-- 📌 **Goal:** Keep learning, build useful projects, and improve one commit at a time
-
----
-
-### 🧰 Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,ts,tailwind,git,github,vscode,python" alt="Languages and tools" />
-</p>
-
-### 🚀 Projects
-
-- **[Startect](https://github.com/prince8965/Startect)** — Chandrayaan-2 image correspondence and visualization project.
-- **[EARNERS_PW](https://github.com/prince8965/EARNERS_PW)** — My learning repository for practice and coursework.
-- **[Magic of Four Boxes](https://github.com/prince8965/Magic-of-four-boxes)** — A small web project.
-- **[Pokémon Cards](https://github.com/prince8965/Pokemon-cards)** — A card-based web project.
-- **[COC Cards](https://github.com/prince8965/COC-cards)** — A game-inspired card interface.
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prince8965&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince8965&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+- 🔭 **Building:** Full-stack projects and practical developer tools
+- 🌱 **Learning:** DSA in C++, JavaScript, MERN stack, and AI/ML
+- 🧰 **Technologies:** C++, Python, JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS
+- 🛰️ **Hackathon project:** [Startect](https://github.com/prince8965/Startect) — multimodal image correspondence using Chandrayaan-2 optical imagery
+- 🌐 **Web project:** [NearCircle](https://near-circle.vercel.app/) — a hyperlocal event discovery and community engagement platform
+- 🤝 **Open to:** Open-source collaboration, hackathons, and software engineering internship opportunities
 
 ---
 
-### 📫 Let's Connect
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,tailwind,git,github,vscode" alt="C++, Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Git, GitHub, and VS Code" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**Startect**](https://github.com/prince8965/Startect) | Hackathon project exploring multimodal image correspondence with Chandrayaan-2 imagery. |
+| [**NearCircle**](https://near-circle.vercel.app/) · [Source code](https://github.com/prince8965/nearcircle) | Hyperlocal event discovery and community engagement platform. |
+| [**Garbage Collector**](https://github.com/prince8965/garbage-collector) | Web project focused on reporting and managing garbage collection requests. |
+| [**EARNERS_PW**](https://github.com/prince8965/EARNERS_PW) | Personal learning repository for practice and coursework. |
+| [**Magic of Four Boxes**](https://github.com/prince8965/Magic-of-four-boxes) | Small interactive web project. |
+
+---
+
+### 📊 GitHub Overview
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prince8965&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince8965&layout=compact&hide_border=true" alt="Most-used languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=prince8965&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+### 📫 Connect
 
 - GitHub: [@prince8965](https://github.com/prince8965)
 
-*Learning every day. Building step by step. 🚀*
+*Learning consistently, building in public, and improving one commit at a time. 🚀*
